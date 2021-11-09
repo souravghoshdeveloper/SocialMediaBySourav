@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        drawable="@drawable/home"
+        text="@string/home" />
+    <tab
+        drawable="@drawable/notification"
+        text="@string/notification" />
+    <tab
+        drawable="@drawable/round_add_button"
+        text="@string/add" />
+    <tab
+        drawable="@drawable/magnifying_glass"
+        text="@string/search" />
+    <tab
+        drawable="@drawable/account"
+        text="@string/profile" />
+
+</Tabs>
